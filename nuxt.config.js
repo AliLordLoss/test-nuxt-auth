@@ -56,7 +56,7 @@ export default {
     localStorage: false,
     strategies: {
       auth0: {
-        scheme: 'refresh',
+        // scheme: 'refresh',
         domain: 'dev-tvb8ynv7.us.auth0.com',
         clientId: '5fmjBLAbd8tAGgBHADlJzAUsMLHUn8w8',
         audience: 'https://dev-tvb8ynv7.us.auth0.com/api/v2/',
